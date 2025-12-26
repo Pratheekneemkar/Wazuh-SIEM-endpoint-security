@@ -69,7 +69,7 @@ This file defines the monitored directories, real-time monitoring, and cryptogra
 ## 📄 Documentation
 A full technical report of the project is included in:
 
-[Download Full Technical Report](report/Report%20Wazuh%20Home%20Lab.pdf)
+[Download Full Technical Report](Report%20Wazuh%20Home%20Lab.pdf)
 
 The report explains the system architecture, implementation steps, testing methodology, and results.
 
