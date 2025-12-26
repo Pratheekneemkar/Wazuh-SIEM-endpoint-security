@@ -45,9 +45,8 @@ All security telemetry (system logs, file integrity events, and cryptographic ha
 
 ---
 
-## 📸 Evidence
+## 📸 Snapshots
 The [screenshots](screenshots/) folder contains proof of:
-folder contains proof of:
 - Active Wazuh agent  
 - Wazuh dashboard  
 - File integrity alerts  
